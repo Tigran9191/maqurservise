@@ -1,0 +1,52 @@
+.tik {
+  width: 90vw;
+  height: 86vh;
+  background-image: url(../../../src/Img/Header/header.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+.text {
+  color: white;
+  text-align: left;
+  padding: 100px;
+}
+.textContainer {
+  width: 40vw;
+  height: 90vh;
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.CildernContainer {
+  width: 20vw;
+  height: 80vh;
+
+  display: flex;
+  flex-direction: column;
+}
+h1 {
+  color: white;
+  text-align: center;
+  font-size: 8vh;
+  padding-top: 5vh;
+}
+.MainTextContainer{
+    width: 60vw;
+    height: 40vh;
+}
+
+.main-text{
+  width: 20vw;
+  height: 90vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+}
+.main-img{
+  width: 20vw;
+  height: 90vh;
+  background-image: url(../../Img/Main/318845366_2292511107593971_9166420664710304606_n.png);
+  background-size: auto;
+  background-repeat: no-repeat;
+}
